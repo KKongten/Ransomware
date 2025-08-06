@@ -3,11 +3,8 @@
 ## Using Language
  - Python 3.7.4 → 3.13.5 
  - Window Batch File 
+<hr>
 
----
-***This project is strictly for educational and research purposes***. <br>
-***Executing this code on any production system, personal computer, or network is strongly discouraged and may result in permanent data loss***.
----
 ## Code Update ( 25.08.06 )
 ### 1. AES Key Management
  - Replaced static AES key with **randomly generated AES-256 key**
@@ -53,6 +50,8 @@ python ransomware.py
  - Run python decrypt_tool.py
 
 ## Legal Disclaimer
+***This project is strictly for educational and research purposes.***<br>
+***Executing this code on any production system, personal computer, or network is strongly discouraged and may result in permanent data loss.***<br>
 ***This repository is intended for academic study and malware behavior analysis only.***<br>
 ***Any misuse of the code is the sole responsibility of the executor.***<br>
 ***The author is not liable for any damage caused by misuse.***
