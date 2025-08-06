@@ -5,8 +5,8 @@
  - Window Batch File 
 
 ---
-*This project is **strictly for educational and research purposes***. <br>
-*Executing this code on any production system, personal computer, or network is **strongly discouraged and may result in permanent data loss***.
+***This project is strictly for educational and research purposes***. <br>
+***Executing this code on any production system, personal computer, or network is strongly discouraged and may result in permanent data loss***.
 ---
 ## Code Update ( 25.08.06 )
 ### 1. AES Key Management
